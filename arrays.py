@@ -1,0 +1,1 @@
+arr = ["Arsenal","Aston Villa","Brighton","Chelsea","Everton"]
